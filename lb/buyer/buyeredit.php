@@ -19,10 +19,10 @@
 	padding:0px;
 	list-style:none;
 }
-ul li{
+ul li{  
 	float:left;
 	width:200px;
-	hight:40px;
+	hight:45px;
 	background-color:black;
 	opacity:.6;
 	line-height:40px;
