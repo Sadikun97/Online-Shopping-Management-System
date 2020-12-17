@@ -3,7 +3,7 @@
    <head>
        <title></title>
 	   <style>
-	     .muk {    margin: -28% 42%;
+	     .muk {    margin: -28% 40%;
     color: black;}
 		 
 		 h1 {margin: 7% 15%;padding-top: 21px;}
