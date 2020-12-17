@@ -3,7 +3,7 @@
    <head>
        <title>Online shopping management system of AMAZON (products booking)</title>
 	   <style>
-	     .muk {    margin: -31% 42%;
+	     .muk {    margin: -31% 41%;
     color: black;}
 		 input {width: 84%;height: 27px;}
 		 input[type="submit"] {width: 47%;margin: 2% 19%;}
